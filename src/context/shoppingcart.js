@@ -18,6 +18,7 @@ import Shoppingcart from '../component/Shoppingcart';
   const openCart = ()=>{
      setisOpen(true);
   }
+  
   const CloseCart = ()=>{
     setisOpen(false);
   }
