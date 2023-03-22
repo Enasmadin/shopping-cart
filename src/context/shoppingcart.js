@@ -9,6 +9,7 @@ import Shoppingcart from '../component/Shoppingcart';
  const  ShoppingProvider =({children})=> {
   const [CartItems, setCartItems] = useState(intialCartitems);
   const [isOpen,setisOpen]= useState(false);
+  
 
   useEffect(()=>{
     localStorage.setItem("shopping-cart",JSON.stringify(CartItems))
