@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "name":"book1",
+        "price":44890,
+        "imagurl":"/images/book.jpg"
+    },
+    {
+        "id":2,
+        "name":"book2",
+        "price":4066,
+        "imagurl":"/images/book2.jpg"
+    },
+    {
+        "id":3,
+        "name":"book3",
+        "price":60889,
+        "imagurl":"/images/book3.jpg"
+    },
+    {
+        "id":4,
+        "name":"book4",
+        "price":80,
+        "imagurl":"/images/book4.jpg"
+    }
+]
